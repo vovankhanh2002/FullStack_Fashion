@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24133D5-B55C-41F7-9C04-2496D03A6313}|Fashion.Infrastructure\\Fashion.Infrastructure.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.infrastructure\\extensions\\sevicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24133D5-B55C-41F7-9C04-2496D03A6313}|Fashion.Infrastructure\\Fashion.Infrastructure.csproj|solutionrelative:fashion.infrastructure\\extensions\\sevicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|solutionrelative:fashion.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|solutionrelative:fashion.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24133D5-B55C-41F7-9C04-2496D03A6313}|Fashion.Infrastructure\\Fashion.Infrastructure.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.infrastructure\\fashion.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A24133D5-B55C-41F7-9C04-2496D03A6313}|Fashion.Infrastructure\\Fashion.Infrastructure.csproj|solutionrelative:fashion.infrastructure\\fashion.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE60FB01-3226-4CAB-A084-5A6228381D9C}|Fashion.Domain\\Fashion.Domain.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE60FB01-3226-4CAB-A084-5A6228381D9C}|Fashion.Domain\\Fashion.Domain.csproj|solutionrelative:fashion.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE60FB01-3226-4CAB-A084-5A6228381D9C}|Fashion.Domain\\Fashion.Domain.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.domain\\entities\\categori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE60FB01-3226-4CAB-A084-5A6228381D9C}|Fashion.Domain\\Fashion.Domain.csproj|solutionrelative:fashion.domain\\entities\\categori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24133D5-B55C-41F7-9C04-2496D03A6313}|Fashion.Infrastructure\\Fashion.Infrastructure.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24133D5-B55C-41F7-9C04-2496D03A6313}|Fashion.Infrastructure\\Fashion.Infrastructure.csproj|solutionrelative:fashion.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.api\\fashion.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|solutionrelative:fashion.api\\fashion.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3DEC18-EA27-4385-A79A-B25F37FF92E3}|Fashion.Application\\Fashion.Application.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3DEC18-EA27-4385-A79A-B25F37FF92E3}|Fashion.Application\\Fashion.Application.csproj|solutionrelative:fashion.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|solutionrelative:fashion.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|d:\\angular \u002B api .net\\backend\\fashion.api\\fashion.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C0AE04-051D-4046-9396-DB44CAC1C03D}|Fashion.Api\\Fashion.Api.csproj|solutionrelative:fashion.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Fashion.Api\\Program.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\Program.cs",
+              "RelativeToolTip": "Fashion.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:52:49.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeviceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Infrastructure\\Extensions\\SeviceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Fashion.Infrastructure\\Extensions\\SeviceCollectionExtensions.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Infrastructure\\Extensions\\SeviceCollectionExtensions.cs",
+              "RelativeToolTip": "Fashion.Infrastructure\\Extensions\\SeviceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:48:11.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Fashion.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Fashion.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:31:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categori.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Domain\\Entities\\Categori.cs",
+              "RelativeDocumentMoniker": "Fashion.Domain\\Entities\\Categori.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Domain\\Entities\\Categori.cs",
+              "RelativeToolTip": "Fashion.Domain\\Entities\\Categori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:19:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Fashion.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Fashion.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:02:11.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fashion.Infrastructure",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Infrastructure\\Fashion.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Fashion.Infrastructure\\Fashion.Infrastructure.csproj",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Infrastructure\\Fashion.Infrastructure.csproj",
+              "RelativeToolTip": "Fashion.Infrastructure\\Fashion.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T04:00:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Fashion.Application\\Class1.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Application\\Class1.cs",
+              "RelativeToolTip": "Fashion.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:49:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Fashion.Api\\appsettings.json",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\appsettings.json",
+              "RelativeToolTip": "Fashion.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T03:46:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Fashion.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Fashion.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:46:53.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Fashion.Api\\WeatherForecast.cs",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Fashion.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:46:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fashion.Api.http",
+              "DocumentMoniker": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\Fashion.Api.http",
+              "RelativeDocumentMoniker": "Fashion.Api\\Fashion.Api.http",
+              "ToolTip": "D:\\Angular \u002B API .Net\\Backend\\Fashion.Api\\Fashion.Api\\Fashion.Api.http",
+              "RelativeToolTip": "Fashion.Api\\Fashion.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-22T03:45:56.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
